@@ -1,0 +1,80 @@
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  background-color: rgba(0, 0, 0, 0.03);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+.card-task {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  background-color: rgba(0, 0, 0, 0.03);
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+  display: block;
+}
+
+.in {
+  margin-bottom: 1rem;
+}
+
+.card-header {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  padding: 0.75rem 0.5rem;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.card-operations {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.card-main {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2px;
+  margin-right: 50px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  background-color: rgba(0, 0, 0, 0.03);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+
+.button {
+  margin-right: 0.5rem;
+}
+.ul {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  border-radius: 0.25rem;
+}

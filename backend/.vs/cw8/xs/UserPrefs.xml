@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{2D5481AF-8153-4D13-9812-9E8FB2786BA8}|cw8">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DTOs/Requests/RegisterRequest.cs">
+    <Files>
+      <File FileName="Services/IDbService.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="66" Column="19" />
+      <File FileName="Controllers/AccountsController.cs" Line="27" Column="26" />
+      <File FileName="Services/DbService.cs" Line="32" Column="43" />
+      <File FileName="Controllers/OperationController.cs" Line="17" Column="10" />
+      <File FileName="Controllers/TaskController.cs" Line="17" Column="10" />
+      <File FileName="DTOs/Requests/LoginRequest.cs" Line="1" Column="1" />
+      <File FileName="DTOs/Requests/RefreshTokenRequest.cs" Line="1" Column="1" />
+      <File FileName="DTOs/Requests/RegisterRequest.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cw8" expanded="True">
+            <Node name="backend" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTOs" expanded="True">
+                <Node name="Requests" expanded="True">
+                  <Node name="RegisterRequest.cs" selected="True" />
+                </Node>
+                <Node name="Responses" expanded="True" />
+              </Node>
+              <Node name="Middlewares" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.backend PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
